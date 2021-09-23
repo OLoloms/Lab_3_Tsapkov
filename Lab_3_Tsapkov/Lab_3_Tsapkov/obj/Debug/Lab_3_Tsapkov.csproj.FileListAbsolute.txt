@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Lab_3_Tsapkov\Lab_3_Tsapkov\bin\Debug\Lab_3_Tsapkov.exe.config
+C:\Users\User\source\repos\Lab_3_Tsapkov\Lab_3_Tsapkov\bin\Debug\Lab_3_Tsapkov.exe
+C:\Users\User\source\repos\Lab_3_Tsapkov\Lab_3_Tsapkov\bin\Debug\Lab_3_Tsapkov.pdb
+C:\Users\User\source\repos\Lab_3_Tsapkov\Lab_3_Tsapkov\obj\Debug\Lab_3_Tsapkov.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lab_3_Tsapkov\Lab_3_Tsapkov\obj\Debug\Lab_3_Tsapkov.Form1.resources
+C:\Users\User\source\repos\Lab_3_Tsapkov\Lab_3_Tsapkov\obj\Debug\Lab_3_Tsapkov.Properties.Resources.resources
+C:\Users\User\source\repos\Lab_3_Tsapkov\Lab_3_Tsapkov\obj\Debug\Lab_3_Tsapkov.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab_3_Tsapkov\Lab_3_Tsapkov\obj\Debug\Lab_3_Tsapkov.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab_3_Tsapkov\Lab_3_Tsapkov\obj\Debug\Lab_3_Tsapkov.exe
+C:\Users\User\source\repos\Lab_3_Tsapkov\Lab_3_Tsapkov\obj\Debug\Lab_3_Tsapkov.pdb
